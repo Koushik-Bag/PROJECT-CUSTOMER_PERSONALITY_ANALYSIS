@@ -7,3 +7,5 @@ product.
 saying about your product.
 
 📝 Description
+This implemantation is based on official Alphapose repository https://github.com/MVIG-SJTU/AlphaPose
+In this project we have used Alphapose and XGBOOST for activity recognition.
